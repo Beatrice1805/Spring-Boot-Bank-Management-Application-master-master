@@ -1,0 +1,4 @@
+package org.springframework.transaction.annotation;
+
+public class ProxyTransactionManagementConfigurationImpl extends ProxyTransactionManagementConfiguration {
+}

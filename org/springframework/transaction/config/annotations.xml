@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.transaction.config.TransactionManagementConfigUtils TRANSACTION_ADVISOR_BEAN_NAME'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

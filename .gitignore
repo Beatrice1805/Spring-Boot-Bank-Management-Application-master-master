@@ -1,0 +1,10 @@
+.settings
+target/
+.project
+.classpath
+.idea
+*.iml
+log/
+
+# Project exclude paths
+/.gradle/
